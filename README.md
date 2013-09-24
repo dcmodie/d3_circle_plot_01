@@ -1,4 +1,4 @@
 d3_circle_plot_01
 =================
 
-plotting circles with d3
+Plotting circles with d3. 
